@@ -1,0 +1,2 @@
+# JIVP-S-24-00257
+An_Improved_Steganographic_Method_Based_on_Adaptive_and_OPAP
